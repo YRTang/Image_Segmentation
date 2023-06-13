@@ -1,4 +1,4 @@
-﻿GI Tract Image Segmentation
+﻿###GI Tract Image Segmentation###
 
 
 Original Dataset: 
