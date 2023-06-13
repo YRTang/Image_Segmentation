@@ -13,10 +13,10 @@ https://drive.google.com/drive/folders/18LMCborta8nWo2R-Rl1KNWd4RvclT-2c?usp=sha
 ### Step 1:
 To run the sample.ipynb, run the following commands:
 
-###'!pip install -q segmentation_models_pytorch'
-###'!pip install -qU wandb'
-###'!pip install -q scikit-learn==1.0'
-###'!pip install colorama'
+### '!pip install -q segmentation_models_pytorch'
+### '!pip install -qU wandb'
+### '!pip install -q scikit-learn==1.0'
+### '!pip install colorama'
 
 
 ### Step2:
