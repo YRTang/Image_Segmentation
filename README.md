@@ -4,10 +4,10 @@
 ## Dataset: 
 * Link from Kaggle: https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/data?select=train
 * Link from project Google Drive:
-train:
-https://drive.google.com/drive/folders/19xLnW9qctKuz1dZLvKqhJnXw-odUMY6R?usp=share_link
-label2:
-https://drive.google.com/drive/folders/18LMCborta8nWo2R-Rl1KNWd4RvclT-2c?usp=share_link
+<br />train:
+<br />https://drive.google.com/drive/folders/19xLnW9qctKuz1dZLvKqhJnXw-odUMY6R?usp=share_link
+<br />label2:
+<br />https://drive.google.com/drive/folders/18LMCborta8nWo2R-Rl1KNWd4RvclT-2c?usp=share_link
 
 ## Instruction
 ### Step 1:
